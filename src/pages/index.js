@@ -20,14 +20,11 @@ const Index = () => {
         <BasicTextModule
           title="Need a spark to electrify your upcoming event?"
           content="With a wealth of experience and charisma, Sunil knows
-            how to set the stage on fire, giving all age grous a once in a lifetime experience.
+            how to set the stage on fire, giving all age groups a once in a lifetime experience.
             Ready to take your event to the next level?"
           link="/products"
-          linkText="Past Events"
+          linkText="View Past Events"
         />
-        <PerksModule>
-          <Perk title="The Title" content="The content" />
-        </PerksModule>
         <Features
           title="Featured Events By Sunil."
           introduction="Check out all our successful events!"
