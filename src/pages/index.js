@@ -14,28 +14,27 @@ const Index = () => {
       <Seo title="Home" />
       <Layout>
         <BannerModule
-          title="Welcome to Barcadia"
-          subTitle="Using a combination of Gatsby and Contentful, Barcadia is ready to deploy and simple to use."
+          title="Welcome to Sunil Suresh's Official Website!"
+          subTitle="MC, Beatboxer, Entertainer Extraordinaire"
         />
         <BasicTextModule
-          title="A super-fast theme that is easy to get started, using the power of
-            GatsbyJS"
-          content="Using modern CSS properties such as grid, this theme is optmised for
-            speed and mobile devices. Giving users an excellent experience on
-            any device. Future-proofing your product."
+          title="Need a spark to electrify your upcoming event?"
+          content="With a wealth of experience and charisma, Sunil knows
+            how to set the stage on fire, giving all age grous a once in a lifetime experience.
+            Ready to take your event to the next level?"
           link="/products"
-          linkText="View Products"
+          linkText="Past Events"
         />
         <PerksModule>
           <Perk title="The Title" content="The content" />
         </PerksModule>
         <Features
-          title="Featured Products from Barcadia."
-          introduction="Vivamus quam mauris, pulvinar vel mauris id, interdum semper neque. Proin malesuada libero eget tellus scelerisque, id egestas tortor egestas."
+          title="Featured Events By Sunil."
+          introduction="Check out all our successful events!"
         />
         <LatestPosts
-          title="The Latest from Barcadia"
-          introduction="Cras scelerisque, tellus sed gravida tincidunt, velit tellus blandit justo, nec viverra augue erat in erat. Maecenas iaculis sed purus non fringilla."
+          title="What Customers Are Saying"
+          introduction="Hear directly from our happy clients!"
         />
       </Layout>
     </>
